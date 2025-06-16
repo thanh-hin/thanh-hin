@@ -60,3 +60,13 @@ _ Học viện Công nghệ Bưu chính Viễn thông cơ sở TP.HCM (PTITHCM)
 
 - AES brute-force & key scheduling in C++
 - Embedded systems & IoT
+
+---
+
+### Key Skills
+
+- 🔒 Web vulnerability testing (OWASP Top 10)  
+- 🧠 Logical thinking, problem solving  
+- 🛠 Web application development & debugging  
+- 📄 Technical documentation and write-ups  
+- 🌐 Frontend/backend programming
